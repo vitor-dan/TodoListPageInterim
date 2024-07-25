@@ -11,4 +11,4 @@
 
 ## Importante
 > [!IMPORTANT]
-> Para que o BackEnd consiga fazer a conexão com o banco de dados Postgres é necessário que a `DefaultConnection` no arquivo `appsettings.json` esteja com a string de conexão correta com o seu serividor.
+> Para que o BackEnd consiga fazer a conexão com o banco de dados Postgres é necessário que a `DefaultConnection` no arquivo `appsettings.json` esteja com a string de conexão correta com o seu servidor.
